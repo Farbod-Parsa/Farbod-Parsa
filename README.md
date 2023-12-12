@@ -10,4 +10,4 @@ I'm Farbod Parsa, a programming polyglot who thrives in the dynamic landscapes o
 🔗 Let's connect and share insights on Python, Ruby, or anything code-related! Catch me on Instagram for a blend of tech updates and witty developer banter.
 
 Happy coding! 🚀
-https://static-00.iconduck.com/assets.00/python-icon-2048x2048-14d2d6l2.png
+
