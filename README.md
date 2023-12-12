@@ -8,7 +8,10 @@ I'm Farbod Parsa, a programming polyglot who thrives in the dynamic landscapes o
 📚 An unquenchable thirst for knowledge keeps me exploring the latest trends, frameworks, and design patterns. My code is not just functional; it tells a story of readability, scalability, and craftsmanship.
 
 🔗 Let's connect and share insights on Python, Ruby, or anything code-related! Catch me on Instagram for a blend of tech updates and witty developer banter.
-[![My Skills](https://skillicons.dev/icons?i=js,py,ruby,)](https://skillicons.dev)
 
 Happy coding! 🚀
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,py,ruby,)](https://skillicons.dev)
+
 
