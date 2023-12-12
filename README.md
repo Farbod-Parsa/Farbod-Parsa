@@ -12,6 +12,6 @@ I'm Farbod Parsa, a programming polyglot who thrives in the dynamic landscapes o
 Happy coding! 🚀
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,ruby,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,ruby,django)](https://skillicons.dev)
 
 
