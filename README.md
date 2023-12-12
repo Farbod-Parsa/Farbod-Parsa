@@ -15,3 +15,6 @@ Happy coding! 🚀
 [![My Skills](https://skillicons.dev/icons?i=js,py,ruby,django)](https://skillicons.dev)
 
 
+![farbod's github status](https://github-readme-stats.vercel.app/api?username=Farbod-Parsa&theme=default&show_icons=true)
+
+
