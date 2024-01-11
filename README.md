@@ -14,8 +14,7 @@ Happy coding! 🚀
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,ruby,django)](https://skillicons.dev)
 
-(https://camo.githubusercontent.com/39a3b377abf7e63daf2068092ff43e9d637259b77156ac41de8302fafc1cb269/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d416e6f6e4330444552267468656d653d6f6e656461726b)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
