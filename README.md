@@ -12,7 +12,7 @@ I'm Farbod Parsa, a programming polyglot who thrives in the dynamic landscapes o
 Happy coding! 🚀
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,ruby,django,c++](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,ruby,django,c++)](https://skillicons.dev)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
 
