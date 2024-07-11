@@ -14,7 +14,7 @@ Happy coding! 🚀
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,ruby,django,cpp)](https://skillicons.dev)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
